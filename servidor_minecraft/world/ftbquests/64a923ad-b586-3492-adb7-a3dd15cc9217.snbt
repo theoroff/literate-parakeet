@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "64a923adb5863492adb7a3dd15cc9217"
+	name: "alexo"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

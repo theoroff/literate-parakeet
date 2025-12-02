@@ -1,0 +1,18 @@
+{
+	id: "64a923ad-b586-3492-adb7-a3dd15cc9217"
+	type: "player"
+	player_name: "alexo"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "alexo"
+		"ftbteams:color": "#F459FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

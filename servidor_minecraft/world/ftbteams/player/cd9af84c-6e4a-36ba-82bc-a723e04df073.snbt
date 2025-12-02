@@ -1,0 +1,18 @@
+{
+	id: "cd9af84c-6e4a-36ba-82bc-a723e04df073"
+	type: "player"
+	player_name: "hrmes"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "hrmes"
+		"ftbteams:color": "#7759FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

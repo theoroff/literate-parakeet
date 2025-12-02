@@ -1,0 +1,12 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 0
+	extra_claim_chunks: 0
+	extra_force_load_chunks: 0
+	chunk_load_offline: true
+	chunks: { }
+	original_claims: {
+		cd9af84c-6e4a-36ba-82bc-a723e04df073: { }
+		64a923ad-b586-3492-adb7-a3dd15cc9217: { }
+	}
+}

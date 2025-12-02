@@ -1,0 +1,48 @@
+[19:41:52] [INFO ] Loaded script server_scripts:astralsorcery.js in 0.003 s
+[19:41:52] [INFO ] Loaded script server_scripts:recipes_bees_eggs.js in 0.002 s
+[19:41:52] [INFO ] Loaded script server_scripts:script.js in 0.005 s
+[19:41:52] [INFO ] Loaded script server_scripts:create.js in 0.002 s
+[19:41:52] [INFO ] Loaded script server_scripts:recipes.js in 0.013 s
+[19:41:52] [INFO ] Loaded script server_scripts:bees.js in 0.006 s
+[19:41:52] [INFO ] Loaded script server_scripts:mystical_agriculture.js in 0.003 s
+[19:41:52] [INFO ] Loaded script server_scripts:ftb_quests.js in 0.005 s
+[19:41:52] [INFO ] Loaded script server_scripts:botany_pots.js in 0.014 s
+[19:41:52] [INFO ] Loaded script server_scripts:arsnouveau.js in 0.001 s
+[19:41:52] [INFO ] Loaded 10/10 KubeJS server scripts in 0.081 s
+[19:41:52] [INFO ] Scripts loaded
+[19:41:52] [INFO ] Scanning recipes...
+[19:41:56] [INFO ] [blocks] Found 764 tags, added 56 objects, removed 0 objects
+[19:41:56] [INFO ] [blocks] Found 764 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [items] Found 1465 tags, added 0 objects, removed 9 objects
+[19:41:56] [INFO ] [items] Found 1465 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [fluids] Found 141 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [fluids] Found 141 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [entity_types] Found 37 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [entity_types] Found 37 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[19:41:56] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[19:41:56] [WARN ] Failed to parse recipe 'productivebees:forestry/centrifuge/honey_comb[forestry:centrifuge]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: forestry:centrifuge
+[19:41:56] [WARN ] Failed to parse recipe productivebees:forestry/centrifuge/honey_comb[forestry:centrifuge]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forestry:centrifuge'
+[19:41:56] [WARN ] Failed to parse recipe 'farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
+[19:41:56] [WARN ] Failed to parse recipe farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
+[19:41:56] [WARN ] Failed to parse recipe 'mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
+[19:41:56] [WARN ] Failed to parse recipe mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
+[19:41:56] [INFO ] Found 14066 recipes and 0 failed recipes in 901.7 ms
+[19:41:57] [INFO ] Posted recipe events in 227.4 ms
+[19:41:57] [INFO ] Modified & removed recipes in 327.6 ms
+[19:41:57] [INFO ] Added recipes in 16.69 ms
+[19:41:57] [INFO ] Added 78 recipes, removed 21 recipes, modified 4 recipes, with 0 failed recipes and 0 fall-backed recipes
+[19:41:58] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[19:41:58] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects

@@ -1,0 +1,25 @@
+{
+	id: "5c05f279-ea22-40d1-85b8-4ac658c4aff7"
+	type: "party"
+	owner: "cd9af84c-6e4a-36ba-82bc-a723e04df073"
+	ranks: {
+		64a923ad-b586-3492-adb7-a3dd15cc9217: "member"
+		cd9af84c-6e4a-36ba-82bc-a723e04df073: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "hrmes's Party"
+		"ftbteams:color": "#59FFF3"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1764705558902L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"hrmes\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "cd9af84c-6e4a-36ba-82bc-a723e04df073", date: 1764705565855L, text: "{\"color\":\"green\",\"text\":\"Invited alexo\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1764705569362L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"alexo\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}
